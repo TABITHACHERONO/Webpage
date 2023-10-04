@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    margin: o;
+    line-height: 1.6;
+    
+}
+title{
+    background-color: lightskyblue;
+    color: brown;
+    text-align: center;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+h1{
+    background-color: white;
+    font-size: 2rem;
+}
+footer{
+    text-align: center;
+
+}
+header{
+    text-align: center;
+}
+img{
+width: 5oopx;
+height: 500px;
+margin: 5;
+
+}
+
